@@ -1,5 +1,4 @@
 import pandas as pd
-import seaborn as sns
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.neighbors import KNeighborsClassifier, NearestNeighbors
 from sklearn.metrics import accuracy_score, classification_report
